@@ -4,8 +4,9 @@ A clean, responsive frontend task management (To-Do) web application built with 
 
 ## 🔗 Live Links
 
-- **Live Demo**: project4taskmanager.netlify.app
-- **GitHub Repository**: [https://github.com/munozjh/project-4](https://github.com/munozjh/project-4)
+- **GitHub Pages:** https://munozjh.github.io/Project-4/
+- **Netlify:** https://project4taskmanager.netlify.app/
+- **GitHub Repository:** https://github.com/munozjh/Project-4
 
 ## ✨ Features
 
